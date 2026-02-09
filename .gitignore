@@ -1,0 +1,91 @@
+############################
+# OS / Editor
+############################
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+############################
+# .NET / C#
+############################
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny [Cc][Pp][Uu]/
+[Ll]og/
+*.log
+
+# Rider / VS
+_ReSharper*/
+*.DotSettings.user
+*.cache
+*.pdb
+*.mdb
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+**/packages/*
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.*.json.user
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+publish/
+wwwroot/lib/
+
+############################
+# Tests / Coverage
+############################
+TestResults/
+coverage/
+coverage.xml
+*.opencover.xml
+
+############################
+# Angular / Node
+############################
+node_modules/
+dist/
+.angular/
+.cache/
+tmp/
+temp/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# Env files 
+.env
+.env.*
+
+############################
+# Security / Secrets
+############################
+*.pfx
+*.cer
+*.key
