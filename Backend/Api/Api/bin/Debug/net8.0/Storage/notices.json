@@ -1,17 +1,6 @@
 {
   "notices": [
     {
-      "Id": "22222222-2222-2222-2222-222222222222",
-      "Title": "\u05E0\u05DE\u05E6\u05D0 \u05D0\u05E8\u05E0\u05E7 \u05E9\u05D7\u05D5\u05E8",
-      "Content": "\u05E0\u05DE\u05E6\u05D0 \u05DC\u05D9\u05D3 \u05D7\u05E0\u05D9\u05D5\u05DF \u05E7\u05E6\u05E8 \u05D8\u05D5\u05D5\u05D7. \u05D0\u05E2\u05D1\u05D9\u05E8 \u05DC\u05D1\u05E2\u05DC\u05D9\u05DD \u05E2\u05DD \u05E1\u05D9\u05DE\u05E0\u05D9\u05DD \u05DE\u05D6\u05D4\u05D9\u05DD.",
-      "Location": {
-        "Latitude": 31.9992,
-        "Longitude": 34.8721,
-        "Address": "\u05D7\u05E0\u05D9\u05D5\u05DF \u05E7\u05E6\u05E8 \u05D8\u05D5\u05D5\u05D7"
-      },
-      "CreatedAt": "2026-02-01T10:25:00Z"
-    },
-    {
       "Id": "33333333-3333-3333-3333-333333333333",
       "Title": "\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E4\u05E8\u05D8\u05D9 \u05D1\u05D0\u05E0\u05D2\u05DC\u05D9\u05EA",
       "Content": "\u05DE\u05D5\u05E8\u05D4 \u05E2\u05DD \u05E0\u05D9\u05E1\u05D9\u05D5\u05DF. \u05D6\u05DE\u05D9\u05DF \u05D0\u05D7\u05D4\u0022\u05E6 \u05D1\u05D6\u05D5\u05DD/\u05E4\u05E8\u05D5\u05E0\u05D8\u05DC\u05D9 \u05D1\u05D0\u05D6\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3.",
@@ -35,12 +24,12 @@
     },
     {
       "Id": "55555555-5555-5555-5555-555555555555",
-      "Title": "\u05DE\u05E1\u05D9\u05E8\u05EA \u05DB\u05D9\u05E1\u05D0 \u05DE\u05D7\u05E9\u05D1",
-      "Content": "\u05DB\u05D9\u05E1\u05D0 \u05D1\u05DE\u05E6\u05D1 \u05D8\u05D5\u05D1, \u05D0\u05D9\u05E1\u05D5\u05E3 \u05E2\u05E6\u05DE\u05D9 \u05D1\u05DC\u05D1\u05D3.",
+      "Title": "ggggggg",
+      "Content": "string",
       "Location": {
-        "Latitude": 32.03,
-        "Longitude": 34.88,
-        "Address": "\u05D0\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D4"
+        "Latitude": 0,
+        "Longitude": 0,
+        "Address": "string"
       },
       "CreatedAt": "2026-02-02T16:40:00Z"
     },
@@ -221,5 +210,5 @@
       "CreatedAt": "2026-02-09T08:44:24.7754223Z"
     }
   ],
-  "lastUpdatedAt": "2026-02-09T08:44:24.7932784Z"
+  "lastUpdatedAt": "2026-02-09T18:19:12.9584743Z"
 }

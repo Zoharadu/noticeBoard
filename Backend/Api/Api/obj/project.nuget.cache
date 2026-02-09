@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASbBYSkxU54=",
+  "dgSpecHash": "lMIE230N4VE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

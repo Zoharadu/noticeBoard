@@ -37,6 +37,11 @@ public class NoticesController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<NoticeResponse>> Create(CreateNoticeRequest request)
     {
+        if (request.Location.Latitude is < -90 or > 90 || request.Location.Longitude is < -180 or > 180)
+        {
+            return BadRequest("Invalid location coordinates.");
+        }
+
         var location = new Location(
             request.Location.Latitude,
             request.Location.Longitude,
@@ -56,6 +61,13 @@ public class NoticesController : ControllerBase
     [HttpPut("{id:guid}")]
     public async Task<IActionResult> Update(Guid id, UpdateNoticeRequest request)
     {
+        if (request.Location.Latitude is < -90 or > 90 ||
+    request.Location.Longitude is < -180 or > 180)
+        {
+            return BadRequest("Invalid location coordinates.");
+        }
+
+
         var location = new Location(
             request.Location.Latitude,
             request.Location.Longitude,

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Api.csproj": {}
+    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Api.csproj": {
+    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\obj\\",
+        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj"
+              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj"
               },
-              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj": {
+    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\obj\\",
+        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj"
+              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
+    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ZoharaDuenias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,11 +251,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Application.csproj"
+              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Application\\Application.csproj"
               },
-              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Domain\\Domain.csproj"
+              "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Domain\\Domain.csproj"
               }
             }
           }

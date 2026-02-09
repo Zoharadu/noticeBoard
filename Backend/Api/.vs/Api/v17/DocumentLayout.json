@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\",
+  "WorkspaceRootPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\infrastructure\\storage\\model\\noticesfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\storage\\model\\noticesfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\api\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|solutionrelative:api\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\noticeboard\\backend\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B750CD8-F399-4311-A0BE-C9ED34125828}|Application\\Application.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\application\\services\\noticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B750CD8-F399-4311-A0BE-C9ED34125828}|Application\\Application.csproj|solutionrelative:application\\services\\noticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\infrastructure\\repository\\noticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\noticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\backend\\api\\api\\mappers\\noticemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|solutionrelative:api\\mappers\\noticemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\noticeboard\\backend\\api\\api\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|solutionrelative:api\\controllers\\noticescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T21:35:07.341Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NoticesController.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Controllers\\NoticesController.cs",
+              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Controllers\\NoticesController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\NoticesController.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Controllers\\NoticesController.cs",
+              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Controllers\\NoticesController.cs",
               "RelativeToolTip": "Api\\Controllers\\NoticesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T07:33:59.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NoticeService.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Services\\NoticeService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\NoticeService.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Application\\Services\\NoticeService.cs",
-              "RelativeToolTip": "Application\\Services\\NoticeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T07:37:27.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NoticeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Repository\\NoticeRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\NoticeRepository.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Repository\\NoticeRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\NoticeRepository.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T07:42:10.978Z",
+              "WhenOpened": "2026-02-09T18:11:46.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NoticesFileModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Storage\\Model\\NoticesFileModel.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Storage\\Model\\NoticesFileModel.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Infrastructure\\Storage\\Model\\NoticesFileModel.cs",
-              "RelativeToolTip": "Infrastructure\\Storage\\Model\\NoticesFileModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T07:49:44.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NoticeMapper.cs",
-              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Mappers\\NoticeMapper.cs",
-              "RelativeDocumentMoniker": "Api\\Mappers\\NoticeMapper.cs",
-              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\Backend\\Api\\Api\\Mappers\\NoticeMapper.cs",
-              "RelativeToolTip": "Api\\Mappers\\NoticeMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:41:22.66Z",
+              "WhenOpened": "2026-02-08T21:35:07.341Z",
               "EditorCaption": ""
             }
           ]

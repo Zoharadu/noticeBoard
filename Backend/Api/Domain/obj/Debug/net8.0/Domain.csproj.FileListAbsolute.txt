@@ -9,3 +9,15 @@ C:\Users\ZoharaDuenias\Desktop\NoticeBoard\Backend\Api\Domain\obj\Debug\net8.0\D
 C:\Users\ZoharaDuenias\Desktop\NoticeBoard\Backend\Api\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\ZoharaDuenias\Desktop\NoticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\ZoharaDuenias\Desktop\NoticeBoard\Backend\Api\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ZoharaDuenias\Desktop\NoticeBoard\noticeBoard\Backend\Api\Domain\obj\Debug\net8.0\ref\Domain.dll
