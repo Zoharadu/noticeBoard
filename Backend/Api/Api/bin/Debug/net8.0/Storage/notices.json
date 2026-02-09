@@ -1,0 +1,225 @@
+{
+  "notices": [
+    {
+      "Id": "22222222-2222-2222-2222-222222222222",
+      "Title": "\u05E0\u05DE\u05E6\u05D0 \u05D0\u05E8\u05E0\u05E7 \u05E9\u05D7\u05D5\u05E8",
+      "Content": "\u05E0\u05DE\u05E6\u05D0 \u05DC\u05D9\u05D3 \u05D7\u05E0\u05D9\u05D5\u05DF \u05E7\u05E6\u05E8 \u05D8\u05D5\u05D5\u05D7. \u05D0\u05E2\u05D1\u05D9\u05E8 \u05DC\u05D1\u05E2\u05DC\u05D9\u05DD \u05E2\u05DD \u05E1\u05D9\u05DE\u05E0\u05D9\u05DD \u05DE\u05D6\u05D4\u05D9\u05DD.",
+      "Location": {
+        "Latitude": 31.9992,
+        "Longitude": 34.8721,
+        "Address": "\u05D7\u05E0\u05D9\u05D5\u05DF \u05E7\u05E6\u05E8 \u05D8\u05D5\u05D5\u05D7"
+      },
+      "CreatedAt": "2026-02-01T10:25:00Z"
+    },
+    {
+      "Id": "33333333-3333-3333-3333-333333333333",
+      "Title": "\u05E9\u05D9\u05E2\u05D5\u05E8 \u05E4\u05E8\u05D8\u05D9 \u05D1\u05D0\u05E0\u05D2\u05DC\u05D9\u05EA",
+      "Content": "\u05DE\u05D5\u05E8\u05D4 \u05E2\u05DD \u05E0\u05D9\u05E1\u05D9\u05D5\u05DF. \u05D6\u05DE\u05D9\u05DF \u05D0\u05D7\u05D4\u0022\u05E6 \u05D1\u05D6\u05D5\u05DD/\u05E4\u05E8\u05D5\u05E0\u05D8\u05DC\u05D9 \u05D1\u05D0\u05D6\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3.",
+      "Location": {
+        "Latitude": 32.0336,
+        "Longitude": 34.8903,
+        "Address": "\u05D9\u05D4\u05D5\u05D3"
+      },
+      "CreatedAt": "2026-02-02T09:00:00Z"
+    },
+    {
+      "Id": "44444444-4444-4444-4444-444444444444",
+      "Title": "\u05D3\u05E8\u05D5\u05E9/\u05D4 \u05E9\u05D5\u05EA\u05E3/\u05D4 \u05DC\u05E8\u05D9\u05E6\u05D4",
+      "Content": "\u05DE\u05D7\u05E4\u05E9/\u05EA \u05E8\u05D9\u05E6\u05D4 \u05E7\u05DC\u05D4 2-3 \u05E4\u05E2\u05DE\u05D9\u05DD \u05D1\u05E9\u05D1\u05D5\u05E2 \u05D1\u05E4\u05D0\u05E8\u05E7.",
+      "Location": {
+        "Latitude": 32.017,
+        "Longitude": 34.885,
+        "Address": "\u05E4\u05D0\u05E8\u05E7 \u05E1\u05DE\u05D5\u05DA \u05DC\u05D0\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D4"
+      },
+      "CreatedAt": "2026-02-02T12:15:00Z"
+    },
+    {
+      "Id": "55555555-5555-5555-5555-555555555555",
+      "Title": "\u05DE\u05E1\u05D9\u05E8\u05EA \u05DB\u05D9\u05E1\u05D0 \u05DE\u05D7\u05E9\u05D1",
+      "Content": "\u05DB\u05D9\u05E1\u05D0 \u05D1\u05DE\u05E6\u05D1 \u05D8\u05D5\u05D1, \u05D0\u05D9\u05E1\u05D5\u05E3 \u05E2\u05E6\u05DE\u05D9 \u05D1\u05DC\u05D1\u05D3.",
+      "Location": {
+        "Latitude": 32.03,
+        "Longitude": 34.88,
+        "Address": "\u05D0\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D4"
+      },
+      "CreatedAt": "2026-02-02T16:40:00Z"
+    },
+    {
+      "Id": "66666666-6666-6666-6666-666666666666",
+      "Title": "\u05D4\u05E9\u05DB\u05E8\u05EA \u05D7\u05E0\u05D9\u05D4 \u05D7\u05D5\u05D3\u05E9\u05D9\u05EA",
+      "Content": "\u05D7\u05E0\u05D9\u05D4 \u05DE\u05E7\u05D5\u05E8\u05D4 \u05D1\u05D0\u05D6\u05D5\u05E8 \u05DE\u05E8\u05DB\u05D6\u05D9, \u05DE\u05EA\u05D0\u05D9\u05DD \u05DC\u05E8\u05DB\u05D1 \u05E4\u05E8\u05D8\u05D9.",
+      "Location": {
+        "Latitude": 32.0135,
+        "Longitude": 34.8808,
+        "Address": "\u05E7\u05E8\u05D9\u05D9\u05EA \u05D0\u05D5\u05E0\u05D5"
+      },
+      "CreatedAt": "2026-02-03T07:30:00Z"
+    },
+    {
+      "Id": "77777777-7777-7777-7777-777777777777",
+      "Title": "\u05D7\u05D5\u05D2 \u05E8\u05D5\u05D1\u05D5\u05D8\u05D9\u05E7\u05D4 \u05DC\u05D9\u05DC\u05D3\u05D9\u05DD",
+      "Content": "\u05DC\u05DB\u05D9\u05EA\u05D5\u05EA \u05D2-\u05D5, \u05E7\u05D1\u05D5\u05E6\u05D5\u05EA \u05E7\u05D8\u05E0\u05D5\u05EA, \u05DE\u05E4\u05D2\u05E9\u05D9\u05DD \u05E9\u05D1\u05D5\u05E2\u05D9\u05D9\u05DD.",
+      "Location": {
+        "Latitude": 32.004,
+        "Longitude": 34.886,
+        "Address": "\u05E1\u05D1\u05D9\u05D5\u05DF"
+      },
+      "CreatedAt": "2026-02-03T11:05:00Z"
+    },
+    {
+      "Id": "88888888-8888-8888-8888-888888888888",
+      "Title": "\u05D0\u05D1\u05D3 \u05DB\u05DC\u05D1 \u05E7\u05D8\u05DF",
+      "Content": "\u05E4\u05D5\u05D3\u05DC \u05E7\u05D8\u05DF, \u05D7\u05D5\u05DD \u05D1\u05D4\u05D9\u05E8. \u05E0\u05E8\u05D0\u05D4 \u05DC\u05D0\u05D7\u05E8\u05D5\u05E0\u05D4 \u05DC\u05D9\u05D3 \u05DE\u05E8\u05DB\u05D6 \u05DE\u05E1\u05D7\u05E8\u05D9.",
+      "Location": {
+        "Latitude": 32.0255,
+        "Longitude": 34.8895,
+        "Address": "\u05DE\u05E8\u05DB\u05D6 \u05DE\u05E1\u05D7\u05E8\u05D9 \u05D9\u05D4\u05D5\u05D3"
+      },
+      "CreatedAt": "2026-02-03T18:20:00Z"
+    },
+    {
+      "Id": "99999999-9999-9999-9999-999999999999",
+      "Title": "\u05D7\u05D9\u05E4\u05D5\u05E9 \u05DE\u05D8\u05E4\u05DC\u05EA \u05E2\u05E8\u05D1",
+      "Content": "\u05E4\u05E2\u05DE\u05D9\u05D9\u05DD \u05D1\u05E9\u05D1\u05D5\u05E2, 19:00-22:00, \u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05D9\u05EA\u05E8\u05D5\u05DF.",
+      "Location": {
+        "Latitude": 32.029,
+        "Longitude": 34.874,
+        "Address": "\u05EA\u05DC \u05D4\u05E9\u05D5\u05DE\u05E8/\u05E1\u05D1\u05D9\u05D1\u05D4"
+      },
+      "CreatedAt": "2026-02-04T06:55:00Z"
+    },
+    {
+      "Id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+      "Title": "\u05E0\u05DE\u05E6\u05D0 \u05D8\u05DC\u05E4\u05D5\u05DF",
+      "Content": "\u05E0\u05DE\u05E6\u05D0 \u05D1\u05EA\u05D7\u05E0\u05EA \u05D0\u05D5\u05D8\u05D5\u05D1\u05D5\u05E1. \u05E9\u05DE\u05D5\u05E8 \u05D0\u05E6\u05DC\u05D9 \u05E2\u05D3 \u05E9\u05D9\u05D0\u05D5\u05EA\u05E8 \u05D1\u05E2\u05DC\u05D9\u05DD.",
+      "Location": {
+        "Latitude": 32.0008,
+        "Longitude": 34.8712,
+        "Address": "\u05D0\u05D6\u05D5\u05E8 \u05E0\u05EA\u05D1\u0022\u05D2"
+      },
+      "CreatedAt": "2026-02-04T09:45:00Z"
+    },
+    {
+      "Id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+      "Title": "\u05DE\u05DB\u05D9\u05E8\u05EA \u05E9\u05D5\u05DC\u05D7\u05DF \u05D0\u05D5\u05DB\u05DC",
+      "Content": "\u05E9\u05D5\u05DC\u05D7\u05DF \u05E0\u05E4\u05EA\u05D7 \u002B 4 \u05DB\u05D9\u05E1\u05D0\u05D5\u05EA, \u05DE\u05E6\u05D1 \u05DE\u05E6\u05D5\u05D9\u05DF.",
+      "Location": {
+        "Latitude": 32.015,
+        "Longitude": 34.892,
+        "Address": "\u05E4\u05EA\u05D7 \u05EA\u05E7\u05D5\u05D5\u05D4 (\u05DE\u05D6\u05E8\u05D7)"
+      },
+      "CreatedAt": "2026-02-04T14:10:00Z"
+    },
+    {
+      "Id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+      "Title": "\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05EA\u05D2\u05D1\u05D5\u05E8 \u05D1\u05DE\u05EA\u05DE\u05D8\u05D9\u05E7\u05D4",
+      "Content": "\u05D7\u05D8\u05D9\u05D1\u05D4/\u05EA\u05D9\u05DB\u05D5\u05DF, \u05D4\u05DB\u05E0\u05D4 \u05DC\u05DE\u05D1\u05D7\u05E0\u05D9\u05DD, \u05D6\u05D5\u05DD \u05D0\u05D5 \u05E4\u05E8\u05D5\u05E0\u05D8\u05DC\u05D9.",
+      "Location": {
+        "Latitude": 32.035,
+        "Longitude": 34.876,
+        "Address": "\u05E8\u05DE\u05EA \u05D2\u05DF (\u05DE\u05D6\u05E8\u05D7)"
+      },
+      "CreatedAt": "2026-02-05T08:00:00Z"
+    },
+    {
+      "Id": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+      "Title": "\u05E7\u05D1\u05D5\u05E6\u05EA \u05DC\u05D9\u05DE\u05D5\u05D3 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8",
+      "Content": "\u05DE\u05E4\u05D2\u05E9\u05D9 \u05EA\u05E8\u05D2\u05D5\u05DC \u05E4\u05E2\u05DD \u05D1\u05E9\u05D1\u05D5\u05E2. \u05DE\u05EA\u05D0\u05D9\u05DD \u05DC\u05DE\u05EA\u05D7\u05D9\u05DC\u05D9\u05DD \u05E2\u05DD \u05D1\u05E1\u05D9\u05E1.",
+      "Location": {
+        "Latitude": 32.008,
+        "Longitude": 34.877,
+        "Address": "\u05D0\u05D6\u05D5\u05E8 \u05D1\u05E7\u05E2\u05EA \u05D0\u05D5\u05E0\u05D5"
+      },
+      "CreatedAt": "2026-02-05T12:35:00Z"
+    },
+    {
+      "Id": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee",
+      "Title": "\u05D4\u05E9\u05D0\u05DC\u05EA \u05E1\u05E4\u05E8\u05D9\u05DD",
+      "Content": "\u05E1\u05E4\u05E8\u05D9 \u05E7\u05E8\u05D9\u05D0\u05D4 \u05D1\u05E2\u05D1\u05E8\u05D9\u05EA, \u05D0\u05D9\u05E1\u05D5\u05E3 \u05D5\u05D4\u05D7\u05D6\u05E8\u05D4 \u05DC\u05E4\u05D9 \u05EA\u05D9\u05D0\u05D5\u05DD.",
+      "Location": {
+        "Latitude": 32.02,
+        "Longitude": 34.8865,
+        "Address": "\u05E7\u05E8\u05D9\u05D9\u05EA \u05D0\u05D5\u05E0\u05D5"
+      },
+      "CreatedAt": "2026-02-05T19:05:00Z"
+    },
+    {
+      "Id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+      "Title": "\u05E6\u05D9\u05D5\u05D3 \u05EA\u05D9\u05E0\u05D5\u05E7\u05D5\u05EA \u05DC\u05DE\u05E1\u05D9\u05E8\u05D4",
+      "Content": "\u05D0\u05DE\u05D1\u05D8\u05D9\u05D4 \u002B \u05D8\u05E8\u05DE\u05E4\u05D9\u05E1\u05D8, \u05D0\u05D9\u05E1\u05D5\u05E3 \u05DE\u05D4\u05D9\u05E8.",
+      "Location": {
+        "Latitude": 32.027,
+        "Longitude": 34.883,
+        "Address": "\u05D0\u05D5\u05E8 \u05D9\u05D4\u05D5\u05D3\u05D4"
+      },
+      "CreatedAt": "2026-02-06T07:20:00Z"
+    },
+    {
+      "Id": "12121212-1212-1212-1212-121212121212",
+      "Title": "\u05D7\u05D9\u05E4\u05D5\u05E9 \u05D3\u05D5\u05D2\u05D5\u05D5\u05E7\u05E8",
+      "Content": "\u05D4\u05DC\u05D9\u05DB\u05D4 \u05D9\u05D5\u05DE\u05D9\u05EA 30 \u05D3\u05E7\u05D5\u05EA \u05D1\u05E9\u05E2\u05D5\u05EA \u05D4\u05D1\u05D5\u05E7\u05E8.",
+      "Location": {
+        "Latitude": 32.032,
+        "Longitude": 34.887,
+        "Address": "\u05D9\u05D4\u05D5\u05D3"
+      },
+      "CreatedAt": "2026-02-06T10:10:00Z"
+    },
+    {
+      "Id": "34343434-3434-3434-3434-343434343434",
+      "Title": "\u05DE\u05DB\u05D9\u05E8\u05EA \u05DE\u05E1\u05DA \u05DE\u05D7\u05E9\u05D1 27\u0022",
+      "Content": "\u05DE\u05E6\u05D1 \u05DE\u05E2\u05D5\u05DC\u05D4, \u05DB\u05D5\u05DC\u05DC \u05DB\u05D1\u05DC \u05D7\u05E9\u05DE\u05DC \u05D5-HDMI.",
+      "Location": {
+        "Latitude": 32.01,
+        "Longitude": 34.8935,
+        "Address": "\u05E1\u05D1\u05D9\u05D5\u05DF"
+      },
+      "CreatedAt": "2026-02-06T13:50:00Z"
+    },
+    {
+      "Id": "56565656-5656-5656-5656-565656565656",
+      "Title": "\u05EA\u05E8\u05D5\u05DE\u05EA \u05D1\u05D2\u05D3\u05D9\u05DD",
+      "Content": "\u05E9\u05E7\u05D9\u05D5\u05EA \u05DE\u05E1\u05D5\u05D3\u05E8\u05D5\u05EA, \u05DE\u05D9\u05D3\u05D4 M/L, \u05D0\u05D9\u05E1\u05D5\u05E3 \u05D1\u05E2\u05E8\u05D1.",
+      "Location": {
+        "Latitude": 32.0185,
+        "Longitude": 34.8755,
+        "Address": "\u05D0\u05D6\u05D5\u05E8 \u05EA\u05DC \u05D4\u05E9\u05D5\u05DE\u05E8"
+      },
+      "CreatedAt": "2026-02-07T08:30:00Z"
+    },
+    {
+      "Id": "78787878-7878-7878-7878-787878787878",
+      "Title": "\u05E1\u05D3\u05E0\u05EA \u05E6\u05D9\u05DC\u05D5\u05DD \u05DC\u05DE\u05EA\u05D7\u05D9\u05DC\u05D9\u05DD",
+      "Content": "\u05DE\u05E4\u05D2\u05E9 \u05D7\u05D3 \u05E4\u05E2\u05DE\u05D9 \u05D1\u05E1\u05D5\u05E4\u0022\u05E9, \u05EA\u05E8\u05D2\u05D5\u05DC \u05E9\u05D8\u05D7.",
+      "Location": {
+        "Latitude": 32.0065,
+        "Longitude": 34.8905,
+        "Address": "\u05E4\u05D0\u05E8\u05E7 \u05E1\u05DE\u05D5\u05DA"
+      },
+      "CreatedAt": "2026-02-07T12:00:00Z"
+    },
+    {
+      "Id": "90909090-9090-9090-9090-909090909090",
+      "Title": "string",
+      "Content": "string",
+      "Location": {
+        "Latitude": 0,
+        "Longitude": 0,
+        "Address": "string"
+      },
+      "CreatedAt": "2026-02-07T17:40:00Z"
+    },
+    {
+      "Id": "a00384fd-de7d-474b-9f9b-1220d63af71f",
+      "Title": "\u05DB\u05DB\u05DB\u05DB\u05DB\u05DB\u05DB\u05DB",
+      "Content": "string",
+      "Location": {
+        "Latitude": 0,
+        "Longitude": 0,
+        "Address": "string"
+      },
+      "CreatedAt": "2026-02-09T08:44:24.7754223Z"
+    }
+  ],
+  "lastUpdatedAt": "2026-02-09T08:44:24.7932784Z"
+}
