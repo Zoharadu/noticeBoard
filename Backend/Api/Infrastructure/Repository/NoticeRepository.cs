@@ -67,7 +67,7 @@ namespace Infrastructure.Repository
             {
                 return new NoticesFileModel();
             }
-
+            Console.WriteLine(_filePath);
             var json = await File.ReadAllTextAsync(_filePath);
 
             var data = JsonSerializer.Deserialize<NoticesFileModel>(json, ReadOptions);

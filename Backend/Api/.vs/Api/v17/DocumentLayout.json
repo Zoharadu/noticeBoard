@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\noticeboard\\backend\\api\\infrastructure\\repository\\noticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E70F-77A3-4E80-BF8E-02121A147359}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\noticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|c:\\users\\zoharaduenias\\desktop\\noticeboard\\noticeboard\\backend\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58B6A162-F45B-4C19-B46E-B76FD44D9B2E}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "NoticeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Repository\\NoticeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\NoticeRepository.cs",
+              "ToolTip": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Infrastructure\\Repository\\NoticeRepository.cs*",
+              "RelativeToolTip": "Infrastructure\\Repository\\NoticeRepository.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:41:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NoticesController.cs",
               "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Controllers\\NoticesController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\NoticesController.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Api\\Controllers\\NoticesController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T18:11:46.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T18:11:46.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ZoharaDuenias\\Desktop\\NoticeBoard\\noticeBoard\\Backend\\Api\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
