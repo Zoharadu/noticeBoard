@@ -1,4 +1,4 @@
-# noticeBoard
+# NoticeBoard
 Backend Overview
 
 The backend is implemented using ASP.NET Core Web API and follows Clean Architecture principles.
