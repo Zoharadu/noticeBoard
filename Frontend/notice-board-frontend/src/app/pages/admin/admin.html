@@ -1,1 +1,132 @@
-<p>admin works!</p>
+<div class="layout">
+  <aside class="side card">
+    <h3>ניהול</h3>
+    <a class="link" routerLink="/board">חזרה ללוח</a>
+  </aside>
+
+  <main class="main">
+    <div class="card">
+      <h2>יצירת מודעה</h2>
+
+      <label>
+        כותרת
+        <input [(ngModel)]="form.title" />
+      </label>
+
+      <label>
+        תוכן
+        <textarea [(ngModel)]="form.content" rows="4"></textarea>
+      </label>
+
+      <div class="row">
+        <label>
+          Latitude
+          <input type="number" [(ngModel)]="form.location.latitude" />
+        </label>
+
+        <label>
+          Longitude
+          <input type="number" [(ngModel)]="form.location.longitude" />
+        </label>
+      </div>
+
+      <label>
+        כתובת (אופציונלי)
+        <input [(ngModel)]="form.location.address" />
+      </label>
+
+      <button class="btn btn-primary" (click)="create()" [disabled]="saving">
+        {{ saving ? 'שומר...' : 'צור מודעה' }}
+      </button>
+
+      <p class="muted msg" *ngIf="saveMsg">{{ saveMsg }}</p>
+    </div>
+
+    <div class="card" style="margin-top: 14px">
+      <div class="header">
+        <h2>כל המודעות</h2>
+        <span class="badge-accent" *ngIf="!loading && !error">
+          {{ notices.length }} מודעות
+        </span>
+      </div>
+
+      <label style="margin-top: 10px;">
+        חיפוש
+        <input [(ngModel)]="q" placeholder="כותרת / תוכן / כתובת..." />
+      </label>
+
+      <p *ngIf="loading">טוען...</p>
+      <p *ngIf="error" class="error">{{ error }}</p>
+
+      <div class="edit card" *ngIf="editingId" style="margin: 12px 0">
+        <h3>עריכת מודעה</h3>
+
+        <label>
+          כותרת
+          <input [(ngModel)]="editForm.title" />
+        </label>
+
+        <label>
+          תוכן
+          <textarea [(ngModel)]="editForm.content" rows="4"></textarea>
+        </label>
+
+        <div class="row">
+          <label>
+            Latitude
+            <input type="number" [(ngModel)]="editForm.location.latitude" />
+          </label>
+
+          <label>
+            Longitude
+            <input type="number" [(ngModel)]="editForm.location.longitude" />
+          </label>
+        </div>
+
+        <label>
+          כתובת
+          <input [(ngModel)]="editForm.location.address" />
+        </label>
+
+        <div class="actions">
+          <button class="btn btn-primary" (click)="saveEdit()" [disabled]="busyId === editingId">
+            {{ busyId === editingId ? 'שומר...' : 'שמור' }}
+          </button>
+          <button class="btn btn-ghost" (click)="cancelEdit()">ביטול</button>
+        </div>
+      </div>
+
+      <div class="grid" *ngIf="!loading && !error">
+        <div class="notice" *ngFor="let n of filtered">
+          <div class="top">
+            <div class="titleBlock">
+              <h3>{{ n.title }}</h3>
+              <div class="meta" *ngIf="n.location?.address">
+                📍 {{ n.location.address }}
+              </div>
+              <div class="date">{{ n.createdAt | date: 'dd/MM/yyyy' }}</div>
+            </div>
+
+            <div class="actions">
+              <button class="btn btn-ghost" (click)="startEdit(n)">עריכה</button>
+
+              <button
+                class="btn btn-ghost danger"
+                (click)="remove(n.id)"
+                [disabled]="busyId === n.id"
+              >
+                {{ busyId === n.id ? 'מוחק...' : 'מחיקה' }}
+              </button>
+            </div>
+          </div>
+
+          <p class="content">{{ n.content }}</p>
+        </div>
+      </div>
+
+      <p class="muted" *ngIf="!loading && !error && filtered.length === 0">
+        אין תוצאות לחיפוש.
+      </p>
+    </div>
+  </main>
+</div>

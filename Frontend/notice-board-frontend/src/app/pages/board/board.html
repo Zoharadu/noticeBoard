@@ -1,18 +1,29 @@
-<div class="card">
-  <h2>לוח מודעות</h2>
+<div class="layout">
+  <aside class="side card">
+    <h3>תפריט</h3>
 
-  <p *ngIf="loading">טוען...</p>
-  <p *ngIf="error" class="error">{{ error }}</p>
+    <a class="link" routerLink="/board">לוח מודעות</a>
+    <a class="link" routerLink="/admin">ניהול (CRUD)</a>
 
-  <div *ngIf="!loading && !error" class="list">
-    <div class="card notice" *ngFor="let n of notices">
-      <h3>{{ n.title }}</h3>
-      <p class="muted">{{ n.createdAt | date:'dd/MM/yyyy HH:mm' }}</p>
-      <p>{{ n.content }}</p>
+    <button class="btn btn-ghost" (click)="logout()">יציאה</button>
+  </aside>
 
-      <div class="muted" *ngIf="n.location?.address">
-        📍 {{ n.location.address }}
+  <main class="main card">
+    <h2>לוח מודעות</h2>
+
+    <div class="grid" *ngIf="!loading">
+      <div class="notice" *ngFor="let n of notices">
+        <div class="top">
+          <h3>{{ n.title }}</h3>
+          <span class="date">{{ n.createdAt | date:'dd/MM/yyyy' }}</span>
+        </div>
+
+        <p class="content">{{ n.content }}</p>
+
+        <div class="meta" *ngIf="n.location?.address">
+          📍 {{ n.location.address }}
+        </div>
       </div>
     </div>
-  </div>
+  </main>
 </div>

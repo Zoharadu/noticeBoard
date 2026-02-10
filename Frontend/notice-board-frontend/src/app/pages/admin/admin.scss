@@ -1,0 +1,119 @@
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 14px;
+  align-items: start;
+}
+
+.main {
+  min-width: 0;
+}
+
+.side {
+  position: sticky;
+  top: 18px;
+  display: grid;
+  gap: 10px;
+}
+
+.link {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: white;
+  color: var(--text);
+}
+.link:hover {
+  background: rgba(15, 23, 42, 0.04);
+  text-decoration: none;
+}
+
+label {
+  display: block;
+  margin-top: 12px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.grid {
+  margin-top: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.notice {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px;
+  background: white;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.titleBlock h3 {
+  margin: 0;
+}
+
+.date {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.content {
+  margin: 10px 0 0;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.msg {
+  margin-top: 10px;
+}
+
+.error {
+  color: #b00020;
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.danger {
+  border-color: rgba(176, 0, 32, 0.25);
+  color: #b00020;
+}
+.danger:hover {
+  background: rgba(176, 0, 32, 0.06);
+}
+
+.edit {
+  box-shadow: none;
+}
