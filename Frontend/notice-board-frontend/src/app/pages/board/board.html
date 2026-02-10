@@ -1,0 +1,18 @@
+<div class="card">
+  <h2>לוח מודעות</h2>
+
+  <p *ngIf="loading">טוען...</p>
+  <p *ngIf="error" class="error">{{ error }}</p>
+
+  <div *ngIf="!loading && !error" class="list">
+    <div class="card notice" *ngFor="let n of notices">
+      <h3>{{ n.title }}</h3>
+      <p class="muted">{{ n.createdAt | date:'dd/MM/yyyy HH:mm' }}</p>
+      <p>{{ n.content }}</p>
+
+      <div class="muted" *ngIf="n.location?.address">
+        📍 {{ n.location.address }}
+      </div>
+    </div>
+  </div>
+</div>

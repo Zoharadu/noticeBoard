@@ -1,0 +1,19 @@
+.list {
+  display: grid;
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.notice {
+  box-shadow: none; 
+}
+
+.muted {
+  color: var(--muted);
+  margin: 6px 0 10px;
+  font-size: 13px;
+}
+
+.error {
+  color: #b00020;
+}

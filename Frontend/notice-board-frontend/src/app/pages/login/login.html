@@ -1,0 +1,19 @@
+<p>login works!</p>
+<div class="card login">
+  <h1>Notice Board</h1>
+  <p class="muted">התחברות</p>
+
+  <label>
+    שם משתמש
+    <input [(ngModel)]="user" />
+  </label>
+
+  <label>
+    סיסמה
+    <input [(ngModel)]="pass" type="password" />
+  </label>
+
+  <button class="btn btn-primary" (click)="submit()">כניסה</button>
+
+  <p class="error" *ngIf="error">{{ error }}</p>
+</div>
